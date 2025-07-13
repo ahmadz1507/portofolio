@@ -24,8 +24,8 @@ const projects = [
         description: "Building a personal portfolio website with interactive scroll animations, modern design, and a focus on engaging user experience to attract recruiters.",
         image: "/assets/project/porto/pict1.png", // **Change to your project image path in public/assets**
         tech: ["React", "Framer Motion", "Styled Components", "JavaScript"],
-        liveLink: "https://yourportfolio.com", // Ganti dengan link portofolio Anda sendiri nanti
-        githubLink: "https://https://github.com/ahmadz1507/portofolio" // Ganti dengan link GitHub repo ini
+        liveLink: "https://portofolio-blond-zeta.vercel.app/", // Ganti dengan link portofolio Anda sendiri nanti
+        githubLink: "https://github.com/ahmadz1507/portofolio" // Ganti dengan link GitHub repo ini
     },
     // **projek lain**
 ];
